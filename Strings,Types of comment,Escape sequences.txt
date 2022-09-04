@@ -1,0 +1,60 @@
+strings:-
+--------
+
+Anything enclosed between single quotes or double quotes or three times single quotes or three times double quotes,
+( kept inside the print statement or assinged to a variable,is called as string ).
+
+Example:-
+-------
+
+1.print ('hello')
+2.print ("hello")
+3.print ('''hello''')
+4.print ("""hello"""")
+5.print ("123")
+6.print ("45.67")
+7.print ("""56.32""")
+8.print ('''23.54''').
+
+--------------------------------------------------------------------------------
+
+Types of comments in python:-
+---------------------------
+
+There are two types of comments:-
+
+1. Single line comment:- Represented by '#' (hash or compound sign)
+   
+   Example:- # print ("hello world")
+
+2. multi-line comment :- represented by ''' ''' or """ """
+
+   Example:- 1. '''print ('hello'
+                          'world')'''
+         
+             2. """print('hello python')""".
+
+  NOTE:- Comments will never get executed in the program, it is like a rough column.
+         comments will be help us to understand the line of code or the program.
+-------------------------------------------------------------------------------------
+
+ESCAPE SEQUENCES:-
+----------------
+
+1. \ ---> Continuation
+2. \\ --->backslash
+3. \n ---->new line
+4. \f ---->new line
+5. \v ---->new line
+6. \' --->single quotes
+7. \a --->alerts
+8. \" --->double quotes
+9. \b ---->back space
+10.\v --->carriage return
+11.\t --->Tab
+12.\u ---->unicode
+13.\x ---->unicode.
+
+-------------------------------------------------------------------------------------
+
+  
